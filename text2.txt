@@ -2,4 +2,8 @@ Moral christianity ideal suicide decieve dead madness intentions horror superior
 
 Oh, I think we should just stay friends. No. We're on the top. Hey, tell me something. You've got all this money. How come you always dress like you're doing your laundry? Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say.
 
+<<<<<<< HEAD
 Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say.
+=======
+Apart from its use as placeholder text before the real content is at hand, lorem ipsum can also be used after the content is available – by temporarily replacing it to separate form from meaning in a design. This excercise is sometimes called greeking – not to be confused with geeking 🤓
+>>>>>>> testfrom_test1
